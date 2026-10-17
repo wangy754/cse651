@@ -1,5 +1,8 @@
 # Agentic Landing Page Template
 
+Forked from https://github.com/pingwu/agentic-landing-template
+This is built for course CSE651 at CSTU.
+
 > **"When AI can do anything for you, what will you build?"**
 
 ---
